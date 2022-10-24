@@ -1,0 +1,20 @@
+body {
+    background: rgb(128, 128, 128);
+}
+.list1{
+    list-style-type: circle;
+}
+.dog1 {
+    width: 600px;
+}
+.header1{
+
+    background: chocolate;
+}
+.header2{
+    color:blue
+}
+.link{
+    font-weight: bold;
+    text-decoration: none;
+}
