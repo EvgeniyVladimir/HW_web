@@ -1,0 +1,36 @@
+body {
+    background: #f3fab4e8;
+}
+.list1{
+    list-style-type: circle;
+
+}
+.dog1 {
+    width: 300px;
+    padding-left: 70px;
+
+}
+.header1{
+
+    background: rgba(210, 105, 30, 0.498);
+}
+.header1{
+    color:rgb(72, 72, 107);
+    text-align: center;
+}
+.header2{
+    color:blue;
+    text-align: center;
+}
+.link{
+    font-weight: bold;
+    text-decoration: none;
+}
+/* .head {
+ /* display: block; Блочный элемент (для старых браузеров) */
+ /* text-align: center; Выравнивание по центру */
+ /* font-style: italic; Курсивное начертание */
+ /* margin-top: 0; Отступ сверху */
+ /* margin-bottom: 5px; Отступ снизу */
+ /* color: #666; Цвет подрисуночной подписи */
+/* } */
